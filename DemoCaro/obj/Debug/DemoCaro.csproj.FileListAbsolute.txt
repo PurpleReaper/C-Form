@@ -1,0 +1,22 @@
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\bin\Debug\DemoCaro.exe.config
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.csprojResolveAssemblyReference.cache
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.Properties.Resources.resources
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.csproj.GenerateResource.Cache
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\bin\Debug\DemoCaro.exe
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\bin\Debug\DemoCaro.pdb
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.exe
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.pdb
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.frmCaroChess.resources
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.exitForm.resources
+C:\Users\TinhDepTrai\Documents\Visual Studio 2015\Projects\Caro\DemoCaro\obj\Debug\DemoCaro.GioiThieu.resources
+C:\Users\TinhDepTrai\Desktop\DemoCaro\bin\Debug\DemoCaro.exe.config
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.exe
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.pdb
+C:\Users\TinhDepTrai\Desktop\DemoCaro\bin\Debug\DemoCaro.exe
+C:\Users\TinhDepTrai\Desktop\DemoCaro\bin\Debug\DemoCaro.pdb
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.csprojResolveAssemblyReference.cache
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.exitForm.resources
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.frmCaroChess.resources
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.GioiThieu.resources
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.Properties.Resources.resources
+C:\Users\TinhDepTrai\Desktop\DemoCaro\obj\Debug\DemoCaro.csproj.GenerateResource.Cache
