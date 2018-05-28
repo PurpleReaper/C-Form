@@ -1,0 +1,38 @@
+c:\users\preaper\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.ManagementForm.resources
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\PReaper\documents\visual studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\PReaper\Documents\Visual Studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.Login.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.Login.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.ManagementForm.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.AddMtoP.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.UserForm.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.checkAdminPermission.resources
+C:\Users\Minh Luan\Desktop\MyProject\MyProject\obj\Debug\MyProject.BorrowFrom.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\bin\Debug\MyProject.exe.config
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.exe
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.pdb
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\bin\Debug\MyProject.exe
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\bin\Debug\MyProject.pdb
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.AddMtoP.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.BorrowFrom.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.checkAdminPermission.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.Login.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.ManagementForm.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.UserForm.resources
+E:\Documents\ImagineManager\MyProject\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
